@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CT_Demo</string>
+    <string name="speech">文本朗读</string>
+    <string name="notAvailable">Language is not available.</string>
+    <string name="text">hello</string>
+</resources>
